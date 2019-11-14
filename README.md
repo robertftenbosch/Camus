@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Camus
 
 You can use the [editor on GitHub](https://github.com/robertftenbosch/Camus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
